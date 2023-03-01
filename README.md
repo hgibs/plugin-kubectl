@@ -1,5 +1,9 @@
 <img src="https://cdn.rawgit.com/oh-my-fish/oh-my-fish/e4f1c2e0219a17e2c748b824004c8d0b38055c16/docs/logo.svg" align="left" width="144px" height="144px"/>
 
+
+# NOTE
+This is a patched (supporting fish 6.3.0+) fork of blackjid's project until he merges in the fix on his repo.
+
 #### kubectl
 > A kubectl aliases plugin for [Oh My Fish][omf-link] based loosely on the
 [Oh My Zsh Kubectl Plugin][omz-kubectl-plugin].
